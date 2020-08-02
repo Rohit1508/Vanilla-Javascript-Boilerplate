@@ -1,0 +1,98 @@
+export const mock = [
+  {
+    name: 'rohit',
+    source: 'koramangala',
+    destination:'whitefield',
+    lat: 12.9716,
+    long: 77.5946,
+    carType: 'Polo',
+    seatAvailable: 3,
+    rating: 4.5,
+    timeToReach: 6,
+    image: 'https://www.pngjoy.com/pngm/186/3682484_harambe-face-sample-avatar-hd-png-download.png'
+  },
+  {
+    name: 'rohit',
+    source: 'koramangala',
+    destination:'whitefield',
+    lat: 12.9716,
+    long: 77.5946,
+    carType: 'Polo',
+    seatAvailable: 3,
+    rating: 4.5,
+    timeToReach: 6,
+    image: 'https://www.pngjoy.com/pngm/186/3682484_harambe-face-sample-avatar-hd-png-download.png'
+  },
+  {
+    name: 'rohit',
+    source: 'sarjapur',
+    destination:'belandur',
+    lat: 12.9716,
+    long: 77.5946,
+    carType: 'Polo',
+    seatAvailable: 3,
+    rating: 4.5,
+    timeToReach: 6,
+    image: 'https://www.pngjoy.com/pngm/186/3682484_harambe-face-sample-avatar-hd-png-download.png'
+  },
+  {
+    name: 'rohit',
+    source: 'sarjapur',
+    destination:'belandur',
+    lat: 12.8576,
+    long: 77.7864,
+    carType: 'Polo',
+    seatAvailable: 3,
+    rating: 4.5,
+    timeToReach: 6,
+    image: 'https://www.pngjoy.com/pngm/186/3682484_harambe-face-sample-avatar-hd-png-download.png'
+  },
+  {
+    name: 'rohit',
+    source: 'koramangala',
+    destination:'whitefield',
+    lat: 12.8576,
+    long: 77.7864,
+    carType: 'Polo',
+    seatAvailable: 3,
+    rating: 4.5,
+    timeToReach: 6,
+    image: 'https://www.pngjoy.com/pngm/186/3682484_harambe-face-sample-avatar-hd-png-download.png'
+  },
+  {
+    name: 'rohit',
+    source: 'koramangala',
+    destination:'whitefield',
+    lat: 12.9716,
+    long: 77.5946,
+    carType: 'Polo',
+    seatAvailable: 3,
+    rating: 4.5,
+    timeToReach: 6,
+    image: 'https://www.pngjoy.com/pngm/186/3682484_harambe-face-sample-avatar-hd-png-download.png'
+  },
+  {
+    name: 'rohit',
+    source: 'koramangala',
+    destination:'whitefield',
+    lat: 12.9716,
+    long: 77.5946,
+    carType: 'Polo',
+    seatAvailable: 3,
+    rating: 4.5,
+    timeToReach: 6,
+    image: 'https://www.pngjoy.com/pngm/186/3682484_harambe-face-sample-avatar-hd-png-download.png'
+  },
+  {
+    name: 'rohit',
+    source: 'koramangala',
+    destination:'whitefield',
+    lat: 12.9716,
+    long: 77.5946,
+    carType: 'Polo',
+    seatAvailable: 3,
+    rating: 4.5,
+    timeToReach: 6,
+    image: 'https://www.pngjoy.com/pngm/186/3682484_harambe-face-sample-avatar-hd-png-download.png'
+  },
+]

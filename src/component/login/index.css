@@ -1,0 +1,27 @@
+.login__container {
+  padding: 100px;
+}
+
+.login__section {
+  border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.login__header{
+  border-bottom: 1px solid;
+  padding: 10px;
+}
+
+
+.login__credential {
+  text-align: center;
+  padding: 20px;
+}
+
+.login__area {
+  border: 1px solid;
+  padding: 43px;
+  width: fit-content;
+}
